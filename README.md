@@ -1,2 +1,3 @@
 # LARAVEL_WITH_ANGULAR
 LARAVEL_WITH_ANGULAR
+https://laravel-angular.io
